@@ -1,2 +1,2 @@
 name="younes mohammed"
-print("hello,my freind"+ name)
+print("hello, my freind"+ name)
